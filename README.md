@@ -73,7 +73,3 @@ This project demonstrates the effectiveness of various machine learning and deep
 ## Acknowledgements
 - The dataset used in this project is publicly available and sourced from [Kaggle](https://www.kaggle.com/).
 - The BERT model is provided by the Hugging Face library.
-
----
-
-Feel free to customize this README file according to your specific needs and preferences. If you have any additional details you'd like to include, let me know!
